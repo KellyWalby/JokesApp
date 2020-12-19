@@ -4,7 +4,7 @@
 $host = "z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $username = "danbjy6mmpf678om";
 $user_password = "w4ifio4523qkdws4";
-$database_in_use = "test";
+$database_in_use = "p94d31c1oceqibru";
 
 //CREATE A DATABASE CONNECTION INSTANCE WITH DEFINED VARAIBLES ABOVE
 $mysqli = new mysqli($host, $username, $user_password, $database_in_use);
