@@ -16,11 +16,11 @@ $client_secret = 'zkDX5iJGiqa2C_V9BRrTnuxq';
 $redirect_url = 'http://localhost:8888/Jokes_App/google_login.php';
 
 //MYSQL DETAILS
-$db_username = "root"; //DATABASE USERNAME
-$db_password = "root"; //DATABASE PASSWORD
+$db_username = "danbjy6mmpf678om"; //DATABASE USERNAME
+$db_password = "w4ifio4523qkdws4"; //DATABASE PASSWORD
 $host_name = "localhost"; //MySql HOSTNAME
-$db_name = "test"; //DATABASE NAME
-$port = 8889;
+$db_name = "p94d31c1oceqibru"; //DATABASE NAME
+$port = 3306;
 
 //CREATE A NEW CONNECTION TO THE GOOGLE LOGIN SERVICE
 $client = new Google_Client();
