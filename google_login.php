@@ -11,8 +11,8 @@ session_start(); //SESSION START
 require_once('vendor/autoload.php');
 
 //THIS DATA IS CUSTOMIZED ACCORDING TO GOOGLE PROJECT
-$client_id = '174275068560-jru21i9kaqk4j0ptfnt5e9upjnp9klqa.apps.googleusercontent.com';
-$client_secret = 'zkDX5iJGiqa2C_V9BRrTnuxq';
+$client_id = '';
+$client_secret = '';
 $redirect_url = 'http://localhost:8888/Jokes_App/google_login.php';
 
 //MYSQL DETAILS
