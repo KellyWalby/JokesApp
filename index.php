@@ -14,7 +14,6 @@
 
 <body>
 <h1>Jokes Page</h1>
-<a href="logout.php">Click here to log out<a>
 <a href="login_form.php">Click here to login<a>
 <a href="register_new_user.php">Click here to register<a><br>
 
